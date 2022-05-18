@@ -1,0 +1,14 @@
+Dowload do GIT : https://git-scm.com/
+
+- O Git Bash é um terminal extendido para otimizar o uso do GIT.
+
+-Mover arquivo : mv - (nome do arquivo) ./ (local para onde ira ser movido) /
+-Mover arquivos para staged: Git add (nome do arquivo) 
+-Move todos os arquivos modificador : git add *
+-Commitar um arquivo com mensagem: git commit -m "mensagem"
+-Lista de consiguraçao: git config --list
+-mostrar arquivos ocultos: ls -a
+-Mostra os repositórios remotos que o repositório que baixou esta apontado: git remote -v
+-Clonar repositório: git clone (link da URL)
+- Com a tag -f você irá substituir o conteúdo da branch remota pelo código que você tem no seu repositório local
+:git push -f origin master.
